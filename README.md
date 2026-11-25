@@ -1,5 +1,3 @@
-**Vibe-Coder | Baby junior Developer (C, Python) | Self-Improvement-er | Tech Dabbler**
-
 I build my own apps and websites. I'm learning computer engineering.
 
 ## Websites
